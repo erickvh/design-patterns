@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.swing.RootPaneContainer;
 
 public class Builder {
 	List<Integer> acciones;
